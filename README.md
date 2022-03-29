@@ -1,7 +1,6 @@
 # Modulation-Techniques
 This is an undergraduate mini project using MATLAB GUI to demonstrate how analog and digital modulation works.
 
-Output:
 
 ## Output window:
 ![](https://github.com/Shismohammad/Modulation-Techniques/blob/main/images/modulation.png)
@@ -16,5 +15,5 @@ Output:
 
 
 
-## Sampling modulation
+## Sampling modulation :
 ![](https://github.com/Shismohammad/Modulation-Techniques/blob/main/images/modulation2.png)
