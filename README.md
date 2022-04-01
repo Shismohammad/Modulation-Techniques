@@ -1,6 +1,6 @@
 # Modulation Techniques using MATLAB GUI
 
-This is an undergraduate mini project using MATLAB GUI to demonstrate how analog and digital modulation works.
+This is an undergraduate mini project. It demonstrate how analog and digital modulation works using MATLAB GUI.
 
 
 ### Output window :
