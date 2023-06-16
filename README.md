@@ -6,7 +6,7 @@ Welcome to the Git repository for my undergraduate mini-project, Modulation Tech
 
 #### Project Overview:
 
-The Modulation Techniques project focuses on providing a visual and interactive platform to understand the principles and applications of analog and digital modulation techniques. By leveraging the power of MATLAB and creating a user-friendly GUI, this project aims to demonstrate the process of modulating and demodulating signals, helping users comprehend the fundamental concepts behind various modulation schemes. The project encompasses both analog modulation techniques (such as Amplitude Modulation, Frequency Modulation, and Phase Modulation) and digital modulation techniques (such as Amplitude Shift Keying, Frequency Shift Keying, and Phase Shift Keying).
+The Modulation Techniques project focuses on providing a visual and interactive platform to understand the principles and applications of analog and digital modulation techniques. By leveraging the power of MATLAB and creating a user-friendly GUI, this project aims to demonstrate the process of modulating and demodulating signals, helping users comprehend the fundamental concepts behind various modulation schemes. The project encompasses digital modulation techniques (such as Amplitude Shift Keying, Frequency Shift Keying, and Phase Shift Keying).
 
 ### Output window :
 ![](https://github.com/Shismohammad/Modulation-Techniques/blob/main/images/modulation.png)
